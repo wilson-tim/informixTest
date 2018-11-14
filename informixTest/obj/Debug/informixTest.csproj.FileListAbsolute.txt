@@ -1,0 +1,9 @@
+c:\users\twilson\documents\visual studio 2013\Projects\informixTest\informixTest\bin\Debug\informixTest.exe.config
+c:\Users\twilson\Documents\Visual Studio 2013\Projects\informixTest\informixTest\bin\Debug\informixTest.exe
+c:\Users\twilson\Documents\Visual Studio 2013\Projects\informixTest\informixTest\bin\Debug\informixTest.pdb
+c:\Users\twilson\Documents\Visual Studio 2013\Projects\informixTest\informixTest\obj\Debug\informixTest.csprojResolveAssemblyReference.cache
+c:\Users\twilson\Documents\Visual Studio 2013\Projects\informixTest\informixTest\obj\Debug\informixTest.Form1.resources
+c:\Users\twilson\Documents\Visual Studio 2013\Projects\informixTest\informixTest\obj\Debug\informixTest.Properties.Resources.resources
+c:\Users\twilson\Documents\Visual Studio 2013\Projects\informixTest\informixTest\obj\Debug\informixTest.csproj.GenerateResource.Cache
+c:\Users\twilson\Documents\Visual Studio 2013\Projects\informixTest\informixTest\obj\Debug\informixTest.exe
+c:\Users\twilson\Documents\Visual Studio 2013\Projects\informixTest\informixTest\obj\Debug\informixTest.pdb
